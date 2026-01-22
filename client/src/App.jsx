@@ -5,6 +5,7 @@ import Chatbot from "./components/Chatbot";
 import Community from "./pages/Community";
 import Sidebar from "./components/Sidebar";
 import { assets } from "./assets/assets";
+import './assets/prism.css'
 
 const App = () => {
 
